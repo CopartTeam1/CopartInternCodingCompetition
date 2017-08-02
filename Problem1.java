@@ -1,4 +1,12 @@
-
+/**
+ * 
+ * 
+ *  @author Ravi A
+ * 
+ * 	Smallest Subset for sum
+ *
+ *
+ */
 public class Problem1 {
 
 	
