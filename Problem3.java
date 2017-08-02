@@ -1,5 +1,13 @@
 import java.util.ArrayList;
-
+/**
+ * 
+ * 
+ *  @author Ravi
+ * 
+ * Word Searching problem
+ *
+ *
+ */
 public class Problem2 {
 	
 	public static void main(String[] args) {
